@@ -27,7 +27,8 @@
 .drawer {
   position: fixed;
   background-color: #fff;
-  transition: transform 300ms ease-in-out; }
+  transition: transform 300ms ease-in-out;
+  overflow: auto; }
 
 .drawer-left {
   top: 0;
